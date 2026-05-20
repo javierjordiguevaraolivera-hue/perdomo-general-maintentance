@@ -3,7 +3,7 @@ import Image from "next/image";
 const business = {
   name: "Perdomo General Maintenance, Inc",
   address: "3528 Palomino Dr, Lake Worth, FL 33462",
-  phone: "+1 305 958 504",
+  phone: "+1 786 546 3843",
   email: "info@perdomogeneralmaintenance.online",
 };
 
